@@ -1,0 +1,13 @@
+.btn3{
+    padding: 15px;
+    background-color: bisque;
+    color:rgb(27, 27, 84);
+    border: 0;
+    border-radius: 5px;
+    margin: 20px;
+}
+.btn3:hover{
+    background-color:rgb(27, 27, 84);
+    color:white;
+    scale: 1.1;
+}
