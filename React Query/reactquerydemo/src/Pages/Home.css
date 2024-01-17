@@ -1,0 +1,43 @@
+*{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.header{
+  color:rgb(28, 137, 137)
+}
+.sub-header{
+  color: rgb(63, 63, 219);
+  text-decoration: underline;
+}
+.hero-details{
+  height:500px;
+  width: 700px;
+  background-color: grey;
+  margin: auto;
+}
+.page-btn{
+  padding:10px;
+  margin: 20px;
+  width:100px;
+  background-color:rgb(28, 137, 137);
+  border:0;
+  color:white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.page-btn:disabled{
+  background-color: rgb(172, 167, 167);
+}
+.nav-btn{
+  padding:10px;
+  margin: 20px;
+  background-color:rgb(28, 137, 137);
+  border:0;
+  color:white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+input{
+  padding: 10px;
+  font-size: 16px;
+}

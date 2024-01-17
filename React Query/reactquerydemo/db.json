@@ -1,0 +1,90 @@
+{
+  "heros": [
+    {
+      "id": 1,
+      "originalName": "Steve Rogers",
+      "nickName": "Captain America",
+      "equipment": "Sheild"
+    },
+    {
+      "id": 2,
+      "originalName": "Tony Stark",
+      "nickName": "Iron Man",
+      "equipment": "Suit"
+    },
+    {
+      "id": 3,
+      "originalName": "Bruce Banner",
+      "nickName": "Hulk",
+      "equipment": "None"
+    },
+    {
+      "id": 4,
+      "originalName": "Thor",
+      "nickName": "Thor",
+      "equipment": "Strom Breaker"
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "color": "Blue"
+    },
+    {
+      "id": 3,
+      "color": "Green"
+    },
+    {
+      "id": 4,
+      "color": "Yellow"
+    },
+    {
+      "id": 5,
+      "color": "Black"
+    },
+    {
+      "id": 6,
+      "color": "Purple"
+    },
+    {
+      "id": 7,
+      "color": "White"
+    },
+    {
+      "id": 8,
+      "color": "Cyan"
+    },
+    {
+      "id": 9,
+      "color": "Pink"
+    },
+    {
+      "id": 10,
+      "color": "Grey"
+    },
+    {
+      "id": 11,
+      "color": "Maroon"
+    },
+    {
+      "id": 12,
+      "color": "Brown"
+    },
+    {
+      "id": 13,
+      "color": "Gold"
+    },
+    {
+      "id": 14,
+      "color": "Silver"
+    },
+    {
+      "id": 15,
+      "color": "Orange"
+    }
+  ]
+}
